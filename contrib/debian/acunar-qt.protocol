@@ -1,0 +1,11 @@
+[Protocol]
+exec=acunar-qt '%u'
+protocol=acunar
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

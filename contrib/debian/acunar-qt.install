@@ -1,0 +1,7 @@
+usr/local/bin/acunar-qt usr/bin
+share/pixmaps/acunar16.png usr/share/pixmaps
+share/pixmaps/acunar32.png usr/share/pixmaps
+share/pixmaps/acunar128.png usr/share/pixmaps
+share/pixmaps/acunar256.png usr/share/pixmaps
+debian/acunar-qt.desktop usr/share/applications
+debian/acunar-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Acunar
+Comment=Core wallet for Acunar P2P Cryptocurrency
+Comment[de]=Offizieller Client für die Kryptowährung Acunar
+Exec=/usr/bin/acunar-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/acunar128.png
+MimeType=x-scheme-handler/acunar;
+Categories=Application;Network;
