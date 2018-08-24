@@ -3417,7 +3417,7 @@ If the file does not exist, create it with owner-readable-only file permissions.
     <message>
         <location line="+1"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation type="unfinished">SSL options: (see the Bitcoin Wiki for SSL setup instructions)</translation>
+        <translation type="unfinished">SSL options: (see the Acunar Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+1"/>

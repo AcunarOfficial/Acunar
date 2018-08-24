@@ -78,7 +78,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Acunar address</source>
-        <translation>Semneaza mesajul pentru a dovedi ca detii aceasta adresa Bitocin</translation>
+        <translation>Semneaza mesajul pentru a dovedi ca detii aceasta adresa Acunar</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1577,7 +1577,7 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>Enter Acunar signature</source>
-        <translation>Introduce semnatura bitocin</translation>
+        <translation>Introduce semnatura Acunar</translation>
     </message>
     <message>
         <location line="+82"/>

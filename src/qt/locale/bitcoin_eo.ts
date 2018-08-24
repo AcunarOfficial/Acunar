@@ -370,7 +370,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Show information about Acunar</source>
-        <translation>Vidigu informaĵon pri Bitmono</translation>
+        <translation>Vidigu informaĵon pri Acunar</translation>
     </message>
     <message>
         <location line="+2"/>

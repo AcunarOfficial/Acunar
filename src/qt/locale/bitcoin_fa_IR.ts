@@ -5,7 +5,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Acunar</source>
-        <translation>در مورد بیتکویین</translation>
+        <translation>در Acunar</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -476,7 +476,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+22"/>
         <source>&amp;About Acunar</source>
-        <translation>&amp;در مورد بیتکویین</translation>
+        <translation>&amp;در Acunar</translation>
     </message>
     <message>
         <location line="+9"/>

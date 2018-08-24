@@ -138,7 +138,7 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL para uso no OpenS
     <message>
         <location line="+1"/>
         <source>Send &amp;Coins</source>
-        <translation>Enviar bit&amp;coins</translation>
+        <translation>Enviar acunar</translation>
     </message>
     <message>
         <location line="+260"/>

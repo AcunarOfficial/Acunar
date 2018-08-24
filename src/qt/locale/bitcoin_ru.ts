@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Acunar</source>
-        <translation>&amp;О Пиркойн</translation>
+        <translation>&amp;О Acunar</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Acunar&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Пиркойн&lt;/b&gt; версия</translation>
+        <translation>&lt;b&gt;Acunar&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -35,7 +35,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <source>The Acunar developers</source>
-        <translation>Разработчики Пиркойн</translation>
+        <translation>Разработчики Acunar</translation>
     </message>
 </context>
 <context>
@@ -83,7 +83,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Acunar address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Пиркойн</translation>
+        <translation>Подписать сообщение, чтобы доказать владение адресом Acunar</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -108,7 +108,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-44"/>
         <source>Verify a message to ensure it was signed with a specified Acunar address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Пиркойн</translation>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Acunar</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -375,7 +375,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Show information about Acunar</source>
-        <translation>Показать информацию о Пиркойн</translation>
+        <translation>Показать информацию о Acunar</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,12 +420,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-347"/>
         <source>Send coins to a Acunar address</source>
-        <translation>Отправить монеты на указанный адрес Пиркойн</translation>
+        <translation>Отправить монеты на указанный адрес Acunar</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Modify configuration options for Acunar</source>
-        <translation>Изменить параметры конфигурации Пиркойн</translation>
+        <translation>Изменить параметры конфигурации Acunar</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -456,7 +456,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="-165"/>
         <location line="+530"/>
         <source>Acunar</source>
-        <translation>Пиркойн</translation>
+        <translation>Acunar</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -481,7 +481,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+22"/>
         <source>&amp;About Acunar</source>
-        <translation>&amp;О Пиркойн</translation>
+        <translation>&amp;О Acunar</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -501,12 +501,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+7"/>
         <source>Sign messages with your Acunar addresses to prove you own them</source>
-        <translation>Подписать сообщения вашим адресом Пиркойн, чтобы доказать, что вы им владеете</translation>
+        <translation>Подписать сообщения вашим адресом Acunar, чтобы доказать, что вы им владеете</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Verify messages to ensure they were signed with specified Acunar addresses</source>
-        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определённым адресом Пиркойн</translation>
+        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определённым адресом Acunar</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -537,7 +537,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+47"/>
         <source>Acunar client</source>
-        <translation>Пиркойн клиент</translation>
+        <translation>Acunar клиент</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
@@ -657,7 +657,7 @@ Address: %4
         <location line="-23"/>
         <location line="+23"/>
         <source>URI can not be parsed! This can be caused by an invalid Acunar address or malformed URI parameters.</source>
-        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Пиркойн или неправильными параметрами URI.</translation>
+        <translation>Не удалось обработать URI! Это может быть связано с неверным адресом Acunar или неправильными параметрами URI.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -672,7 +672,7 @@ Address: %4
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
         <source>A fatal error occurred. Acunar can no longer continue safely and will quit.</source>
-        <translation>Произошла неисправимая ошибка. Пиркойн не может безопасно продолжать работу и будет закрыт.</translation>
+        <translation>Произошла неисправимая ошибка. Acunar не может безопасно продолжать работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -738,7 +738,7 @@ Address: %4
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Acunar address.</source>
-        <translation>Введённый адрес &quot;%1&quot; не является правильным Пиркойн-адресом.</translation>
+        <translation>Введённый адрес &quot;%1&quot; не является правильным Acunar-адресом.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -820,7 +820,7 @@ Address: %4
     <message>
         <location line="+31"/>
         <source>Automatically start Acunar after logging in to the system.</source>
-        <translation>Автоматически запускать Пиркойн после входа в систему</translation>
+        <translation>Автоматически запускать Acunar после входа в систему</translation>
     </message>
     <message>
         <location line="+46"/>
@@ -830,7 +830,7 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>&amp;Start Acunar on system login</source>
-        <translation>&amp;Запускать Пиркойн при входе в систему</translation>
+        <translation>&amp;Запускать Acunar при входе в систему</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -855,7 +855,7 @@ Address: %4
     <message>
         <location line="+6"/>
         <source>Automatically open the Acunar client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для Пиркойн-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <translation>Автоматически открыть порт для Acunar-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -865,7 +865,7 @@ Address: %4
     <message>
         <location line="+7"/>
         <source>Connect to the Acunar network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Подключаться к сети Пиркойн через прокси SOCKS (например, при подключении через Tor).</translation>
+        <translation>Подключаться к сети Acunar через прокси SOCKS (например, при подключении через Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -940,7 +940,7 @@ Address: %4
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Acunar.</source>
-        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска Пиркойн.</translation>
+        <translation>Здесь можно выбрать язык интерфейса. Настройки вступят в силу после перезапуска Acunar.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -955,7 +955,7 @@ Address: %4
     <message>
         <location line="+9"/>
         <source>Whether to show Acunar addresses in the transaction list or not.</source>
-        <translation>Показывать ли адреса Пиркойн в списке транзакций.</translation>
+        <translation>Показывать ли адреса Acunar в списке транзакций.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1007,7 +1007,7 @@ Address: %4
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting Acunar.</source>
-        <translation>Эта настройка вступит в силу после перезапуска Пиркойн</translation>
+        <translation>Эта настройка вступит в силу после перезапуска Acunar</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1026,7 +1026,7 @@ Address: %4
         <location line="+50"/>
         <location line="+166"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Acunar network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Пиркойн после подключения, но этот процесс пока не завершён.</translation>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Acunar после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1080,7 +1080,7 @@ Address: %4
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start acunar: click-to-pay handler</source>
-        <translation>Не удаётся запустить Пиркойн: обработчик click-to-pay</translation>
+        <translation>Не удаётся запустить Acunar: обработчик click-to-pay</translation>
     </message>
 </context>
 <context>
@@ -1250,12 +1250,12 @@ Address: %4
     <message>
         <location line="-104"/>
         <source>Acunar - Debug window</source>
-        <translation>Пиркойн - Окно отладки</translation>
+        <translation>Acunar - Окно отладки</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Acunar Core</source>
-        <translation>Ядро Пиркойн</translation>
+        <translation>Ядро Acunar</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1265,7 +1265,7 @@ Address: %4
     <message>
         <location line="+7"/>
         <source>Open the Acunar debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть отладочный лог-файл Пиркойн из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
+        <translation>Открыть отладочный лог-файл Acunar из текущего каталога данных. Это может занять несколько секунд для больших лог-файлов.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1275,7 +1275,7 @@ Address: %4
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
         <source>Welcome to the Acunar RPC console.</source>
-        <translation>Добро пожаловать в RPC-консоль Пиркойн.</translation>
+        <translation>Добро пожаловать в RPC-консоль Acunar.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1459,7 +1459,7 @@ Address: %4
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Acunar address</source>
-        <translation>Введите Пиркойн-адрес (например 1LA5FtQhnnWnkK6zjFfutR7Stiit4wKd63)</translation>
+        <translation>Введите Acunar-адрес (например 1LA5FtQhnnWnkK6zjFfutR7Stiit4wKd63)</translation>
     </message>
 </context>
 <context>
@@ -1524,7 +1524,7 @@ Address: %4
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Acunar address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Пиркойн</translation>
+        <translation>Подписать сообщение, чтобы доказать владение адресом Acunar</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1560,7 +1560,7 @@ Address: %4
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Acunar address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Пиркойн</translation>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Acunar</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1576,7 +1576,7 @@ Address: %4
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Acunar address</source>
-        <translation>Введите адрес Пиркойн (напр. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Введите адрес Acunar (напр. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1586,7 +1586,7 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>Enter Acunar signature</source>
-        <translation>Введите подпись Пиркойн</translation>
+        <translation>Введите подпись Acunar</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1660,7 +1660,7 @@ Address: %4
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
         <source>The Acunar developers</source>
-        <translation>Разработчики Пиркойн</translation>
+        <translation>Разработчики Acunar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2344,7 +2344,7 @@ rpcpassword=%s
     <message>
         <location line="+3"/>
         <source>Cannot obtain a lock on data directory %s. Acunar is probably already running.</source>
-        <translation>Не удаётся установить блокировку на каталог данных %s.  Возможно, Пиркойн уже работает.</translation>
+        <translation>Не удаётся установить блокировку на каталог данных %s.  Возможно, Acunar уже работает.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2389,7 +2389,7 @@ rpcpassword=%s
     <message>
         <location line="+3"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Acunar will not work properly.</source>
-        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Пиркойн будет работать некорректно.</translation>
+        <translation>Внимание: убедитесь, что дата и время на Вашем компьютере выставлены верно. Если Ваши часы идут неправильно, Acunar будет работать некорректно.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2640,7 +2640,7 @@ rpcpassword=%s
         <location line="+5"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
         <translation>
-Параметры SSL: (см. Bitcoin Wiki для инструкций по настройке SSL)</translation>
+Параметры SSL: (см. Acunar Wiki для инструкций по настройке SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2830,12 +2830,12 @@ rpcpassword=%s
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Acunar</source>
-        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию Пиркойн</translation>
+        <translation>Ошибка загрузки wallet.dat: бумажник требует более новую версию Acunar</translation>
     </message>
     <message>
         <location line="+93"/>
         <source>Wallet needed to be rewritten: restart Acunar to complete</source>
-        <translation>Необходимо перезаписать бумажник, перезапустите Пиркойн для завершения операции.</translation>
+        <translation>Необходимо перезаписать бумажник, перезапустите Acunar для завершения операции.</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2895,7 +2895,7 @@ rpcpassword=%s
     <message>
         <location line="-25"/>
         <source>Unable to bind to %s on this computer. Acunar is probably already running.</source>
-        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, Пиркойн уже работает.</translation>
+        <translation>Невозможно привязаться к %s на этом компьютере.  Возможно, Acunar уже работает.</translation>
     </message>
     <message>
         <location line="+64"/>

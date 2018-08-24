@@ -860,7 +860,7 @@ Adresa:%4
     <message>
         <location line="+7"/>
         <source>Connect to the Acunar network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Spojite se na Bitcon mrežu putem SOCKS proxy-a (npr. kod povezivanja kroz Tor)</translation>
+        <translation>Spojite se na Acunar mrežu putem SOCKS proxy-a (npr. kod povezivanja kroz Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2623,7 +2623,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Acunar Alert&quot; admin@foo.c
     <message>
         <location line="+5"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL postavke: (za detalje o podešavanju SSL opcija vidi Bitcoin Wiki)</translation>
+        <translation>SSL postavke: (za detalje o podešavanju SSL opcija vidi Acunar Wiki)</translation>
     </message>
     <message>
         <location line="+1"/>

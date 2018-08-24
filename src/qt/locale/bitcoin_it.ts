@@ -867,7 +867,7 @@ Indirizzo: %4
     <message>
         <location line="+7"/>
         <source>Connect to the Acunar network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connettiti alla rete Bitcon attraverso un proxy SOCKS (ad esempio quando ci si collega via Tor)</translation>
+        <translation>Connettiti alla rete Acunar attraverso un proxy SOCKS (ad esempio quando ci si collega via Tor)</translation>
     </message>
     <message>
         <location line="+3"/>

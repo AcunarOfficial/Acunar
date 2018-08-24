@@ -1081,7 +1081,7 @@ Adress: %4
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start acunar: click-to-pay handler</source>
-        <translation>Kan inte starta bitcin: klicka-och-betala handhavare</translation>
+        <translation>Kan inte starta Acunar: klicka-och-betala handhavare</translation>
     </message>
 </context>
 <context>

@@ -1255,7 +1255,7 @@ Adres: %4
     <message>
         <location line="+25"/>
         <source>Acunar Core</source>
-        <translation>Rdzeń BitCoin</translation>
+        <translation>Rdzeń Acunar</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -2637,7 +2637,7 @@ na przykład: alertnotify=echo %%s | mail -s &quot;Alarm Acunar&quot; admin@foo.
     <message>
         <location line="+5"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>Opcje SSL: (odwiedź Bitcoin Wiki w celu uzyskania instrukcji)</translation>
+        <translation>Opcje SSL: (odwiedź Acunar Wiki w celu uzyskania instrukcji)</translation>
     </message>
     <message>
         <location line="+1"/>

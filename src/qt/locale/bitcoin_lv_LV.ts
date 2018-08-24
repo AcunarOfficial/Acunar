@@ -271,7 +271,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-56"/>
         <source>Acunar will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your acunars from being stolen by malware infecting your computer.</source>
-        <translation>Acunar aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst bitkoinu zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
+        <translation>Acunar aizvērsies, lai pabeigtu šifrēšanu. Atcerieties, ka maciņa šifrēšana nevar pilnībā novērst  Acunaru zādzību, ko veic datorā ieviesušās kaitīgas programmas.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -415,7 +415,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-347"/>
         <source>Send coins to a Acunar address</source>
-        <translation>Nosūtīt bitkoinus uz Acunar adresi</translation>
+        <translation>Nosūtīt  Acunarus uz Acunar adresi</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -945,7 +945,7 @@ Adrese: %4
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Izvēlēties dalījuma vienību pēc noklusēšanas, ko izmantot interfeisā un nosūtot bitkoinus.</translation>
+        <translation>Izvēlēties dalījuma vienību pēc noklusēšanas, ko izmantot interfeisā un nosūtot  Acunarus.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1002,7 +1002,7 @@ Adrese: %4
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting Acunar.</source>
-        <translation>Iestatījums aktivizēsies pēc Bitkoin pārstartēšanas.</translation>
+        <translation>Iestatījums aktivizēsies pēc  Acunar pārstartēšanas.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1295,7 +1295,7 @@ Adrese: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Sūtīt bitkoinus</translation>
+        <translation>Sūtīt  Acunarus</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1345,7 +1345,7 @@ Adrese: %4
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Apstiprināt bitkoinu sūtīšanu</translation>
+        <translation>Apstiprināt  Acunaru sūtīšanu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1390,7 +1390,7 @@ Adrese: %4
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Kļūda: transakcija tika atteikta. Tā var gadīties, ja kāds no maciņā esošiem bitkoiniem jau iztērēts, piemēram, izmantojot wallet.dat kopiju, kurā nav atzīmēti iztērētie bitkoini.</translation>
+        <translation>Kļūda: transakcija tika atteikta. Tā var gadīties, ja kāds no maciņā esošiem  Acunariem jau iztērēts, piemēram, izmantojot wallet.dat kopiju, kurā nav atzīmēti iztērētie  Acunari.</translation>
     </message>
 </context>
 <context>
@@ -2863,7 +2863,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Acunar Alert&quot; admin@foo.c
     <message>
         <location line="-6"/>
         <source>Insufficient funds</source>
-        <translation>Nepietiek bitkoinu</translation>
+        <translation>Nepietiek  Acunaru</translation>
     </message>
     <message>
         <location line="+10"/>

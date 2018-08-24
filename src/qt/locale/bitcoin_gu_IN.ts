@@ -5,7 +5,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Acunar</source>
-        <translation>બીટકોઈન વિષે</translation>
+        <translation>Acunar વિષે</translation>
     </message>
     <message>
         <location line="+39"/>

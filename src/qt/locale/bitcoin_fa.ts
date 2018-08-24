@@ -416,7 +416,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-347"/>
         <source>Send coins to a Acunar address</source>
-        <translation>سکه ها را به آدرس bitocin ارسال کن</translation>
+        <translation>سکه ها را به آدرس Acunar ارسال کن</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -850,7 +850,7 @@ Address: %4
     <message>
         <location line="+6"/>
         <source>Automatically open the Acunar client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>اتوماتیک باز کردن بندر بیتکویین در روتر . این فقط در مواردی می باشد که روتر با کمک یو پ ن پ کار می کند</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+3"/>
@@ -950,7 +950,7 @@ Address: %4
     <message>
         <location line="+9"/>
         <source>Whether to show Acunar addresses in the transaction list or not.</source>
-        <translation>تا آدرسهای bITCOIN در فهرست تراکنش نمایش داده شوند یا نشوند.</translation>
+        <translation>تا آدرسهای Acunar در فهرست تراکنش نمایش داده شوند یا نشوند.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1454,7 +1454,7 @@ Address: %4
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Acunar address</source>
-        <translation>آدرس بیتکویین وارد کنید</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1571,7 +1571,7 @@ Address: %4
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Acunar address</source>
-        <translation>آدرس بیتکویین وارد کنید  (bijvoorbeeld: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>(bijvoorbeeld: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1581,7 +1581,7 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>Enter Acunar signature</source>
-        <translation>امضای BITOCOIN خود را وارد کنید</translation>
+        <translation>امضای Acunar خود را وارد کنید</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2206,7 +2206,7 @@ Address: %4
     <message>
         <location line="-29"/>
         <source>Send command to -server or acunard</source>
-        <translation>ارسال فرمان به سرور یا باتکویین</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-23"/>

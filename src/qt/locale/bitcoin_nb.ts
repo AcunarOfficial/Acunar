@@ -1081,7 +1081,7 @@ Adresse: %4
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start acunar: click-to-pay handler</source>
-        <translation>Kan ikke starte Bit-coin: klikk-og-betal håndterer</translation>
+        <translation>Kan ikke starte Acunar: klikk-og-betal håndterer</translation>
     </message>
 </context>
 <context>
@@ -2638,7 +2638,7 @@ For eksempel: varselmelding=echo %%s | mail -s &quot;Acunar varsel&quot; admin@f
     <message>
         <location line="+5"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL valg: (se Bitcoin Wiki for instruksjoner for oppsett av SSL)</translation>
+        <translation>SSL valg: (se Acunar Wiki for instruksjoner for oppsett av SSL)</translation>
     </message>
     <message>
         <location line="+1"/>

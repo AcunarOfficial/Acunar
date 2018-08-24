@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Acunar</source>
-        <translation>เกี่ยวกับ บิตคอย์น</translation>
+        <translation>เกี่ยวกับ Acunar</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Acunar&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;บิตคอย์น&lt;b&gt;รุ่น</translation>
+        <translation>&lt;b&gt;Acunar&lt;b&gt;รุ่น</translation>
     </message>
     <message>
         <location line="+57"/>

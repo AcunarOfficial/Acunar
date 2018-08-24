@@ -2649,7 +2649,7 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;Acunar Alert&quot; admin@foo.c
     <message>
         <location line="+5"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>Opciones SSL: (ver la Bitcoin Wiki para instrucciones de configuración SSL)</translation>
+        <translation>Opciones SSL: (ver la Acunar Wiki para instrucciones de configuración SSL)</translation>
     </message>
     <message>
         <location line="+1"/>

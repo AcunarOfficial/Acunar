@@ -818,7 +818,7 @@ Adresas: %4</translation>
     <message>
         <location line="+31"/>
         <source>Automatically start Acunar after logging in to the system.</source>
-        <translation>Automatiškai paleisti Bitkoin programą įjungus sistemą.</translation>
+        <translation>Automatiškai paleisti Acunar programą įjungus sistemą.</translation>
     </message>
     <message>
         <location line="+46"/>
@@ -863,7 +863,7 @@ Adresas: %4</translation>
     <message>
         <location line="+7"/>
         <source>Connect to the Acunar network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Jungtis į Bitkoin tinklą per  socks proxy (pvz. jungiantis per Tor)</translation>
+        <translation>Jungtis į Acunar tinklą per  socks proxy (pvz. jungiantis per Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1457,7 +1457,7 @@ Adresas: %4</translation>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Acunar address</source>
-        <translation>Įveskite bitkoinų adresą (pvz. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Įveskite acunarų adresą (pvz. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1480,7 +1480,7 @@ Adresas: %4</translation>
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Įveskite bitkoinų adresą (pvz. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Įveskite acunarų adresą (pvz. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1553,7 +1553,7 @@ Adresas: %4</translation>
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Įveskite bitkoinų adresą (pvz. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Įveskite  Acunarų adresą (pvz. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1574,7 +1574,7 @@ Adresas: %4</translation>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Acunar address</source>
-        <translation>Įveskite bitkoinų adresą (pvz. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Įveskite  Acunarų adresą (pvz. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2626,7 +2626,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Acunar Alert&quot; admin@foo.c
     <message>
         <location line="+5"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL opcijos (žr.e Bitcoin Wiki for SSL setup instructions)</translation>
+        <translation>SSL opcijos (žr.e  Acunar Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+1"/>

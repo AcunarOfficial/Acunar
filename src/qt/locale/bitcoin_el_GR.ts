@@ -543,7 +543,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to Acunar network</source>
-        <translation><numerusform>%n ενεργή σύνδεση στο δίκτυο Acunar</numerusform><numerusform>%n ενεργές συνδέσεις στο δίκτυο Βitcoin</numerusform></translation>
+        <translation><numerusform>%n ενεργή σύνδεση στο δίκτυο Acunar</numerusform><numerusform>%n ενεργές συνδέσεις στο δίκτυο Acunar</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -831,7 +831,7 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>&amp;Start Acunar on system login</source>
-        <translation>&amp;Έναρξη του Βιtcoin κατά την εκκίνηση του συστήματος</translation>
+        <translation>&amp;Έναρξη του Acunar κατά την εκκίνηση του συστήματος</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2640,7 +2640,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Acunar Alert&quot; admin@foo.c
     <message>
         <location line="+5"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>Ρυθμίσεις SSL: (ανατρέξτε στο Bitcoin Wiki για οδηγίες ρυθμίσεων SSL)</translation>
+        <translation>Ρυθμίσεις SSL: (ανατρέξτε στο Acunar Wiki για οδηγίες ρυθμίσεων SSL)</translation>
     </message>
     <message>
         <location line="+1"/>

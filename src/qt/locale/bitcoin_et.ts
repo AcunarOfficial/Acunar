@@ -83,7 +83,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a Acunar address</source>
-        <translation>Allkirjasta sõnum, et tõestada Bitconi aadressi olemasolu.</translation>
+        <translation>Allkirjasta sõnum, et tõestada Acunari aadressi olemasolu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1025,7 +1025,7 @@ Aadress: %4⏎</translation>
         <location line="+50"/>
         <location line="+166"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Acunar network after a connection is established, but this process has not completed yet.</source>
-        <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Bitconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
+        <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Acunari võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
         <location line="-124"/>

@@ -5,12 +5,12 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Acunar</source>
-        <translation>За Пиркойн</translation>
+        <translation>За Acunar</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Acunar&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Пиркойн&lt;/b&gt; версия</translation>
+        <translation>&lt;b&gt;Acunar&lt;/b&gt; версия</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -68,7 +68,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
         <source>These are your Acunar addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Това са вашите Пиркойн адреси за получаване на плащания. За по-лесно проследяване на плащанията и повишена анонимност можете да използвате нов адрес за всяко плащане.</translation>
+        <translation>Това са вашите Acunar адреси за получаване на плащания. За по-лесно проследяване на плащанията и повишена анонимност можете да използвате нов адрес за всяко плащане.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -108,7 +108,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-44"/>
         <source>Verify a message to ensure it was signed with a specified Acunar address</source>
-        <translation>Проверете съобщение, за да сте сигурни че е подписано с определен Пиркойн адрес</translation>
+        <translation>Проверете съобщение, за да сте сигурни че е подписано с определен Acunar адрес</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -375,7 +375,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Show information about Acunar</source>
-        <translation>Показва информация за Пиркойн</translation>
+        <translation>Показва информация за Acunar</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,7 +420,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-347"/>
         <source>Send coins to a Acunar address</source>
-        <translation>Изпращане към Пиркойн адрес</translation>
+        <translation>Изпращане към Acunar адрес</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -456,7 +456,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="-165"/>
         <location line="+530"/>
         <source>Acunar</source>
-        <translation>Пиркойн</translation>
+        <translation>Acunar</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -481,7 +481,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+22"/>
         <source>&amp;About Acunar</source>
-        <translation>&amp;За Пиркойн</translation>
+        <translation>&amp;За Acunar</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,7 +542,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to Acunar network</source>
-        <translation><numerusform>%n връзка към Пиркойн мрежата</numerusform><numerusform>%n връзки към Пиркойн мрежата</numerusform></translation>
+        <translation><numerusform>%n връзка към Acunar мрежата</numerusform><numerusform>%n връзки към Acunar мрежата</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -734,7 +734,7 @@ Address: %4
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Acunar address.</source>
-        <translation>&quot;%1&quot; не е валиден Пиркойн адрес.</translation>
+        <translation>&quot;%1&quot; не е валиден Acunar адрес.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -826,7 +826,7 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>&amp;Start Acunar on system login</source>
-        <translation>&amp;Пускане на Пиркойн при вход в системата</translation>
+        <translation>&amp;Пускане на Acunar при вход в системата</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -936,7 +936,7 @@ Address: %4
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Acunar.</source>
-        <translation>Промяната на езика ще влезе в сила след рестартиране на Пиркойн.</translation>
+        <translation>Промяната на езика ще влезе в сила след рестартиране на Acunar.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1455,7 +1455,7 @@ Address: %4
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Acunar address</source>
-        <translation>Въведете Пиркойн адрес (например 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Въведете Acunar адрес (например 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1556,7 +1556,7 @@ Address: %4
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Acunar address</source>
-        <translation>Проверете съобщение, за да сте сигурни че е подписано с определен Пиркойн адрес</translation>
+        <translation>Проверете съобщение, за да сте сигурни че е подписано с определен Acunar адрес</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,7 +1572,7 @@ Address: %4
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Acunar address</source>
-        <translation>Въведете Пиркойн адрес (например 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Въведете Acunar адрес (например 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1582,7 +1582,7 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>Enter Acunar signature</source>
-        <translation>Пиркойн подпис</translation>
+        <translation>Acunar подпис</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2194,7 +2194,7 @@ Address: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
         <source>Acunar version</source>
-        <translation>Пиркойн версия</translation>
+        <translation>Acunar версия</translation>
     </message>
     <message>
         <location line="+102"/>
