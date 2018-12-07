@@ -23,7 +23,7 @@
 #define ACUNAR_VERSION_MAJOR       0
 #define ACUNAR_VERSION_MINOR       6
 #define ACUNAR_VERSION_REVISION    3
-#define ACUNAR_VERSION_BUILD       0
+#define ACUNAR_VERSION_BUILD       1
 
 // Copyright year (2009-this)
 // Todo: update this when changing our copyright comments in the source
